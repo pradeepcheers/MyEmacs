@@ -1,0 +1,24 @@
+
+;; ----- smex-history -----
+(
+ cider-jack-in
+ package-list-packages
+ cider-version
+ package-menu-filter
+ package-install
+ list-packages
+ neotree
+)
+
+;; ----- smex-data -----
+(
+ (neotree . 1)
+ (neotree-hide . 1)
+ (cider-jack-in . 7)
+ (list-packages . 1)
+ (package-install . 8)
+ (package-list-packages . 4)
+ (cider-quit . 4)
+ (cider-version . 2)
+ (package-menu-filter . 1)
+)

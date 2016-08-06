@@ -1,0 +1,42 @@
+* Good / new technologies to learn
+* 
+* BACK END
+** Apache Strom
+** JavaSlang
+** Apache Kafka
+** Docker [[http://prakhar.me/docker-curriculum/][http://prakhar.me/docker-curriculum/]]
+** Kubernates 
+** Swagger
+
+
+   
+*** TODO Java Collection Unknown
+**** [[https://docs.oracle.com/javase/tutorial/collections/implementations/index.html][collection-implementation-oracle-link]]
+**** CopyOnWriteArrayList
+**** EnumSet and CopyOnWriteArraySet
+**** EnumMap, WeakHashMap and IdentityHashMap
+**** ConcurrentMap interface and ConcurrentHashMap implementation
+**** 
+**** 
+**** [ ] Sprin MVC, Integration and Batch with annotation
+**** [ ] Hibernate concepts and annotation tutorials
+
+
+
+
+
+* FRONT END
+** JavaScript
+** NodeJS
+** 
+** 
+** 
+* 
+* 
+* 
+* 
+* New But not needed
+** Kotlin
+** Json API replaces Rest API
+** 
+** 

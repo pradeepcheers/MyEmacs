@@ -1,0 +1,151 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/todo-list/src/" . "todo_list/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/todo-list/" . "src/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/" . "todo-list/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/WS/chapter-3/src/" . "chapter_3/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/WS/chapter-3/" . "src/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/ui-src/first_clojure_script/" . "ui/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/ui-src/" . "first_clojure_script/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/src/first_clojure_script/" . "service/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/src/" . "first_clojure_script/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/" . "ui-src/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/lein-sample/src/" . "lein_sample/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/lein-sample/" . "src/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/src/" . "clojurebridge_turtle/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/" . "src/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/" . "first-clojure-script/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/" . "project/")
+ ("/Users/" . "Pradeep/")
+ ("/" . "Users/")
+ ("/Users/Pradeep/" . ".emacs.d/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/src/" . "yeah_baby/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/" . "src/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/" . "yeah-baby/")
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/" . "HackTheTower/")
+ ("/Users/Pradeep/Home/DarkPassenger/" . "Clojure/")
+ ("/Users/Pradeep/Home/" . "DarkPassenger/")
+ ("/Users/Pradeep/.emacs.d/" . "customizations/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/WS/chapter-3/src/chapter_3/"
+ "/Users/Pradeep/.emacs.d/customizations/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/todo-list/src/todo_list/"
+ "/Users/Pradeep/.emacs.d/"
+ "/Users/Pradeep/Home/DarkPassenger/EmacsWS/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/ui-src/first_clojure_script/ui/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/src/first_clojure_script/service/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/lein-sample/src/lein_sample/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/lein-sample/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/src/clojurebridge_turtle/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/src/welcometoclojurebridge/"
+ "/Users/Pradeep/.lein/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/"
+ "/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/src/yeah_baby/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "editing.el"
+ "ui.el"
+ "navigation.el"
+ "setup-clojure.el"
+ "init.el"
+ "misc.el"
+ "elisp-editing.el"
+ "meetup1"
+ "app.cljs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/WS/chapter-3/src/chapter_3/" (22298 21028 0 0) "core.clj" "../" "./")
+
+ ("/Users/Pradeep/.emacs.d/customizations/" (22298 17983 0 0) "ui.el" "transpose-frame.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/Pradeep/.emacs.d/" (22298 18046 0 0) "url/" "themes/" "README.md" "projectile-bookmarks.eld" "places" "init.el~" "init.el" "ido.last" "eshell/" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" "%backup%~" "../" "./")
+
+ ("/Users/Pradeep/" (22297 54922 0 0) "VirtualBox VMs/" "Snapshots/" "Public/" "Pictures/" "octave-workspace" "neo4j-data/" "Music/" "Movies/" "Library/" "Home/" "export.xlsx" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zinc/" ".yjp/" ".vnc/" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".tblive-4/" ".swp" ".subversion/" ".ssh/" ".sqldeveloper/" ".rnd" ".pdfbox.cache" ".oracle_jre_usage/" ".octave_hist" ".npmrc" ".npm/" ".node-gyp/" ".neo4j_shell_history" ".maven_bash_completion.bash" ".m2/" ".lesshst" ".lein/" ".iterm2_shell_integration.bash" ".IntelliJIdea15/" ".IntelliJIdea14/" ".ideaLibSources/" ".gnuplot_history" ".gitconfig" ".git-completion.bash" ".forever/" ".fop/" ".embedmongo/" ".emacs.d/" ".DS_Store" ".docker/" ".datastudio/" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/" (22295 20203 0 0) "Online/" "LondonClojureBridge/" "LispCast/" "HackTheTower/" "ClojureWS/" "BraveClojure/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/" (22276 13150 0 0) "WS/" "Installation/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/WS/chapter-3/" (22276 18267 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/todo-list/" (22291 26318 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/todo-list/src/todo_list/" (22291 16008 0 0) "core.clj" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/todo-list/src/" (22290 13304 0 0) "todo_list/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/HackTheTower/" (22290 13304 0 0) "try-clj/" "todo-list/" "my-website/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/" (22287 54043 0 0) "TYK/" "Other/" "Java/" "EmacsWS/" "Clojure/" "AI/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/WS/chapter-3/src/" (22276 13246 0 0) "chapter_3/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/BraveClojure/WS/" (22276 13246 0 0) "chapter-3/" "../" "./")
+
+ ("/Users/Pradeep/Home/Projects/workspace/wco-cqrs-kafka-eventual-consistency/" (22275 52808 0 0) "wco-cqrs-kafka-eventual-consistency.iml" "target/" "src/" "README.md" "pom.xml" "data/" "config/" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/EmacsWS/" (22129 64707 0 0) "jack-handy" "emacs-fun-times" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/ui-src/first_clojure_script/ui/" (22216 33966 0 0) "app.cljs" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/ui-src/first_clojure_script/" (22216 33966 0 0) "ui/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/ui-src/" (22216 33966 0 0) "first_clojure_script/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/" (22216 36371 0 0) "ui-src/" "target/" "src/" "resources/" "project.clj" "figwheel_server.log" ".nrepl-port" ".gitignore" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/src/first_clojure_script/service/" (22216 35152 0 0) "main.clj" "handler.clj" "css.clj" "cljs.clj" "*cider-repl localhost*" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/src/first_clojure_script/" (22216 33966 0 0) "service/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/first-clojure-script/src/" (22216 33966 0 0) "first_clojure_script/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/" (22216 33966 0 0) "welcometoclojurebridge/" "lein-sample/" "first-clojure-script/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/lein-sample/src/lein_sample/" (22216 26640 0 0) "core.clj" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/lein-sample/src/" (22216 26640 0 0) "lein_sample/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/lein-sample/" (22216 27005 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/src/clojurebridge_turtle/" (22215 27476 0 0) "walk.clj" "core.clj" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/" (22216 15833 0 0) "target/" "src/" "resources/" "README.md" "project.clj" "outline/" ".nrepl-port" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Pradeep/.lein/" (22215 34780 0 0) "repl-history" "profiles.clj" ".profiles.clj.swp" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/src/welcometoclojurebridge/" (22215 27476 0 0) "core.clj" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/src/" (22215 27476 0 0) "welcometoclojurebridge/" "clojurebridge_turtle/" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/" (22215 27593 0 0) "project/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/" (22211 42470 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "dev-resources/" ".lein-repl-history" ".hgignore" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/" (22028 49240 0 0) "sparemac/" "Shared/" "Pradeep/" "Guest/" ".localized" "../" "./")
+
+ ("/home/" (22207 5063 288715 0) "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/src/yeah_baby/" (22192 38789 0 0) "core.clj" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/src/" (22175 64579 0 0) "yeah_baby/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/" (22175 64567 0 0) "yeah-baby/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/Home/" (22108 26900 0 0) "Projects/" "Installers/" "DarkPassenger/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

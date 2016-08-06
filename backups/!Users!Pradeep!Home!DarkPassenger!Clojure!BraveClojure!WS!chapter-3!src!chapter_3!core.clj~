@@ -1,0 +1,25 @@
+(ns chapter-3.core
+  (:gen-class))
+
+#_(use-package expand-region
+  :defer t
+  :bind ("C-=" . er/expand-region))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
+
+(defn train []  (println "choo choo!"))
+
+(defn bus
+  []
+  (str "this is a bigbus"))
+
+(defn infix [a op b & more]
+  (letfn [(infix [a op b] (op a b))]
+  (if (zero? (count more))
+      (infix a op b)
+        (recur (infix a op b) (first more) (second more) (drop 2 more)))))
+
+
