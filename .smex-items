@@ -2,23 +2,30 @@
 ;; ----- smex-history -----
 (
  cider-jack-in
- package-list-packages
- cider-version
- package-menu-filter
- package-install
- list-packages
+ eshell
  neotree
+ shell
+ revert-buffer
+ neotree-hide
+ neotree-dir
 )
 
 ;; ----- smex-data -----
 (
- (neotree . 1)
- (neotree-hide . 1)
- (cider-jack-in . 7)
+ (neotree . 22)
+ (neotree-hide . 5)
+ (cider-jack-in . 11)
  (list-packages . 1)
  (package-install . 8)
  (package-list-packages . 4)
  (cider-quit . 4)
  (cider-version . 2)
  (package-menu-filter . 1)
+ (neotree-mode . 4)
+ (eshell . 14)
+ (neotree-enter . 3)
+ (neotree-toggle . 2)
+ (neotree-dir . 2)
+ (shell . 7)
+ (revert-buffer . 1)
 )

@@ -1,11 +1,3 @@
-ls
-pwd
-pwd
-clear
-clear
-ll
-ls
-ll
 ls -ltr
 tree
 ll
@@ -52,3 +44,85 @@ clear
 node test.js 
 node -version
 node -v
+cd ..
+clear
+npm run dev
+npm install
+git branch
+git status
+cd ../..
+cd Java/workspace/exampay-web-ui/
+clear
+npm install
+npm run dev
+clear
+ls -a
+clear
+pwd
+cd Home/Java/workspace/exampay-web-ui/
+node server
+clear
+~
+z exampay-web-ui
+clear
+
+
+clear
+clear
+z exampay-web-ui
+shell
+clear
+echo $0
+echo $SHELL
+h
+cd Home/Java/workspace/exampay-web-ui/
+node server
+git branch
+git pull origin master
+ll
+ls
+cd app/weblab-common-ui/
+ll
+ls
+git pull origin master
+cd ../..
+git status
+git pull origin master
+npm install
+clear
+npm install
+node server
+clear
+node server
+clear
+ls
+cd app/
+ll
+ls
+cd weblab-common-ui/
+git pull origin master
+cd ../../
+git pull origin master
+git pull origin master
+clear
+npm install
+git pull origin master
+clear
+npm install
+node server
+clear
+node server
+node server
+clear
+node server
+clear
+npm install
+node server
+cd Home/Java/workspace/exampay-web-ui/
+clear
+node server
+clear
+node server
+npm install
+node server
+node server

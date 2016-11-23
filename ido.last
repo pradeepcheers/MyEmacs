@@ -54,6 +54,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/sadasp/Home/Java/workspace/exampay-web-ui/config/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/"
@@ -85,6 +86,7 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "default.json"
  "test.js"
  "core.clj"
  "project.clj"
@@ -94,11 +96,12 @@
  "init.el"
  "setup-clojure.el"
  "casemanager-service-ui.properties"
- "main.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/sadasp/Home/Java/workspace/exampay-web-ui/config/" (22442 396 0 0) "production.json" "default.json" "custom-environment-variables.json" "../" "./")
+
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/" (22361 39598 0 0) "test.js" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/" (22358 50095 0 0) "try/" "NodeJS/" ".DS_Store" "../" "./")
