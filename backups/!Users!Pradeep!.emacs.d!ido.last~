@@ -2,11 +2,12 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/" . "try/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/" . "number_to_english_phrase/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/" . "src/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/" . "number-to-english-phrase/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/" . "ClojureWS/")
- ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/" . "Clojure/")
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/" . "JS/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/" . "DarkPassenger/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/" . "Home/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/" . "LastDay/")
@@ -53,6 +54,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/sadasp/Home/Java/workspace/exampay-web-ui/config/"
+ "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/"
  "/Users/Pradeep/.emacs.d/customizations/"
@@ -83,6 +86,8 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "default.json"
+ "test.js"
  "core.clj"
  "project.clj"
  "editing.el"
@@ -91,17 +96,21 @@
  "init.el"
  "setup-clojure.el"
  "casemanager-service-ui.properties"
- "test.js"
- "main.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/" (22415 45518 0 0) "core.clj" "../" "./")
+ ("/Users/sadasp/Home/Java/workspace/exampay-web-ui/config/" (22442 396 0 0) "production.json" "default.json" "custom-environment-variables.json" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/" (22361 39598 0 0) "test.js" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/" (22358 50095 0 0) "try/" "NodeJS/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/" (22417 24347 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".README.md.swp" ".README.md.swo" ".nrepl-port" ".hgignore" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/" (22417 19843 0 0) "core.clj" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/" (22415 45518 0 0) "number_to_english_phrase/" "../" "./")
-
- ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/" (22415 45518 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/" (22415 45518 0 0) "webskraper/" "ponies/" "number-to-english-phrase/" "firstClojureProgram/" "clojure-noob/" "../" "./")
 

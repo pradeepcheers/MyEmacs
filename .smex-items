@@ -1,23 +1,23 @@
 
 ;; ----- smex-history -----
 (
+ ido-everywhere
+ ido-mode
+ byte-recompile-directory
+ customize-group
+ package-list-packages
  cider-jack-in
  eshell
- neotree
- shell
- revert-buffer
- neotree-hide
- neotree-dir
 )
 
 ;; ----- smex-data -----
 (
  (neotree . 22)
  (neotree-hide . 5)
- (cider-jack-in . 11)
+ (cider-jack-in . 12)
  (list-packages . 1)
  (package-install . 8)
- (package-list-packages . 4)
+ (package-list-packages . 6)
  (cider-quit . 4)
  (cider-version . 2)
  (package-menu-filter . 1)
@@ -28,4 +28,8 @@
  (neotree-dir . 2)
  (shell . 7)
  (revert-buffer . 1)
+ (customize-group . 1)
+ (ido-mode . 5)
+ (byte-recompile-directory . 1)
+ (ido-everywhere . 1)
 )

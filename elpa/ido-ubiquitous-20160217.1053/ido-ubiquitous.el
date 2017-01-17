@@ -134,6 +134,9 @@ Debug info is printed to the *Messages* buffer."
       sym-or-str
     (intern sym-or-str)))
 
+;;; Pradeep added to fix the warning: Warning (bytecomp): reference to free variable 'ido-default-item' [3 times]
+(defvar ido-default-item nil)
+
 ;;; Custom widget definitions
 
 ;; We need to define some custom widget types for use in the override

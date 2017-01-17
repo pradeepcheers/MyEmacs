@@ -75,6 +75,8 @@ Debug info is printed to the *Messages* buffer."
 ;;;###autoload
 (defvar ido-cr+-enable-this-call nil
   "If non-nil, then the current call to `ido-completing-read' is by `ido-completing-read+'")
+;;; Pradeep added to fix the warning: Warning (bytecomp): reference to free variable 'ido-default-item' [3 times]
+(defvar ido-default-item nil)
 
 (defgroup ido-completing-read-plus nil
   "Extra features and compatibility for `ido-completing-read'."
