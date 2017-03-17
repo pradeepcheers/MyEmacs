@@ -2,6 +2,10 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/pradeep/Home/Personal/Clojure/dojos/tic-tac-toe/src/" . "tic_tac_toe/")
+ ("/Users/pradeep/Home/Personal/Clojure/dojos/tic-tac-toe/" . "src/")
+ ("/Users/pradeep/Home/" . "Work/")
+ ("/Users/pradeep/" . "Home/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/" . "try/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/" . "number_to_english_phrase/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/" . "src/")
@@ -54,6 +58,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/pradeep/Home/Personal/Clojure/dojos/tic-tac-toe/src/tic_tac_toe/"
  "/Users/sadasp/Home/Java/workspace/exampay-web-ui/config/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/"
@@ -86,9 +91,9 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "core.clj"
  "default.json"
  "test.js"
- "core.clj"
  "project.clj"
  "editing.el"
  "navigation.el"
@@ -100,6 +105,18 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/pradeep/Home/Personal/Clojure/dojos/tic-tac-toe/src/tic_tac_toe/" (22709 59036 0 0) "core.clj" "../" "./")
+
+ ("/Users/pradeep/Home/Personal/Clojure/dojos/tic-tac-toe/src/" (22709 58992 0 0) "tic_tac_toe/" ".DS_Store" "../" "./")
+
+ ("/Users/pradeep/Home/Personal/Clojure/dojos/tic-tac-toe/" (22709 58992 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".nrepl-port" ".hgignore" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/pradeep/Home/Work/" (22645 31 0 0) "CA/" ".DS_Store" "../" "./")
+
+ ("/Users/pradeep/Home/" (22645 24 0 0) "Work/" ".DS_Store" "../" "./")
+
+ ("/Users/pradeep/" (22654 31960 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Home/" "Downloads/" "Documents/" "Desktop/" ".zshrc" ".zshenv" ".zsh-syntax-highlighting.zsh" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zhistory" ".zcompdump.zwc" ".zcompdump" ".zcompcache/" ".z" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".ssh/" ".psql_history" ".oracle_jre_usage/" ".m2/" ".lein/" ".gitconfig" ".emacs.d/" ".DS_Store" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+
  ("/Users/sadasp/Home/Java/workspace/exampay-web-ui/config/" (22442 396 0 0) "production.json" "default.json" "custom-environment-variables.json" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/" (22361 39598 0 0) "test.js" "../" "./")
