@@ -1,1 +1,0 @@
-("~/Home/DarkPassenger/Clojure/LondonClojureBridge/project/welcometoclojurebridge/" "~/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/" "~/Home/DarkPassenger/Clojure/ponies/workspace/training-day/" "~/Downloads/RestfulPlayGround/" "~/Home/Projects/workspace/fsp-app/")

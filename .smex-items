@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ byte-recompile-directory
  cider-jack-in
  package-refresh-contents
  cider-version
  package-install
  package-list-packages
  list-packages
- eshell
 )
 
 ;; ----- smex-data -----
@@ -26,4 +26,5 @@
  (shell . 1)
  (package-refresh-contents . 7)
  (cider-restart . 2)
+ (byte-recompile-directory . 3)
 )

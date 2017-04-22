@@ -134,6 +134,8 @@ Debug info is printed to the *Messages* buffer."
       sym-or-str
     (intern sym-or-str)))
 
+(defun ido-default-item nil)
+
 ;;; Custom widget definitions
 
 ;; We need to define some custom widget types for use in the override
