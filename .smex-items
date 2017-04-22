@@ -1,6 +1,7 @@
 
 ;; ----- smex-history -----
 (
+<<<<<<< HEAD
  byte-recompile-directory
  cider-jack-in
  package-refresh-contents
@@ -8,23 +9,55 @@
  package-install
  package-list-packages
  list-packages
+=======
+ neotree
+ neotree-hide
+ cider-jack-in
+ tetris
+ ido-everywhere
+ ido-mode
+ byte-recompile-directory
+>>>>>>> 6bb22c1f08b471c9c43656a09106b12c5cf0a891
 )
 
 ;; ----- smex-data -----
 (
+<<<<<<< HEAD
  (neotree . 2)
  (neotree-hide . 1)
  (cider-jack-in . 29)
  (list-packages . 2)
  (package-install . 12)
+=======
+ (neotree . 24)
+ (neotree-hide . 7)
+ (cider-jack-in . 15)
+ (list-packages . 1)
+ (package-install . 8)
+>>>>>>> 6bb22c1f08b471c9c43656a09106b12c5cf0a891
  (package-list-packages . 6)
  (cider-quit . 4)
  (cider-version . 4)
  (package-menu-filter . 1)
+<<<<<<< HEAD
  (eshell . 3)
  (linum-mode . 1)
  (shell . 1)
  (package-refresh-contents . 7)
  (cider-restart . 2)
  (byte-recompile-directory . 3)
+=======
+ (neotree-mode . 4)
+ (eshell . 14)
+ (neotree-enter . 3)
+ (neotree-toggle . 2)
+ (neotree-dir . 2)
+ (shell . 7)
+ (revert-buffer . 1)
+ (customize-group . 1)
+ (ido-mode . 5)
+ (byte-recompile-directory . 1)
+ (ido-everywhere . 1)
+ (tetris . 1)
+>>>>>>> 6bb22c1f08b471c9c43656a09106b12c5cf0a891
 )

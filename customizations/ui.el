@@ -6,7 +6,11 @@
 
 ;; Turn off the menu bar at the top of each frame because it's distracting
 (menu-bar-mode -1)
+<<<<<<< HEAD
 (tool-bar-mode -1)
+=======
+(tool-bar-mode -1) 
+>>>>>>> 6bb22c1f08b471c9c43656a09106b12c5cf0a891
 
 ;; Show line numbers
 (global-linum-mode)

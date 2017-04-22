@@ -134,7 +134,12 @@ Debug info is printed to the *Messages* buffer."
       sym-or-str
     (intern sym-or-str)))
 
+<<<<<<< HEAD
 (defun ido-default-item nil)
+=======
+;;; Pradeep added to fix the warning: Warning (bytecomp): reference to free variable 'ido-default-item' [3 times]
+(defvar ido-default-item nil)
+>>>>>>> 6bb22c1f08b471c9c43656a09106b12c5cf0a891
 
 ;;; Custom widget definitions
 

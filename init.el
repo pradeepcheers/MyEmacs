@@ -140,10 +140,18 @@
  '(custom-safe-themes
    (quote
     ("1157a4055504672be1df1232bed784ba575c60ab44d8e6c7b3800ae76b42f8bd" "cf08ae4c26cacce2eebff39d129ea0a21c9d7bf70ea9b945588c1c66392578d1" "52588047a0fe3727e3cd8a90e76d7f078c9bd62c0b246324e557dfa5112e0d0c" "5ee12d8250b0952deefc88814cf0672327d7ee70b16344372db9460e9a0e3ffc" default)))
+<<<<<<< HEAD
  '(org-agenda-files (quote ("~/Home/temp.org")))
  '(package-selected-packages
    (quote
     (voca-builder tagedit smex rainbow-delimiters projectile paredit neotree magit ido-ubiquitous guide-key git-rebase-mode git-commit-mode expand-region exec-path-from-shell company-irony-c-headers color-identifiers-mode clojure-mode-extra-font-locking clojure-cheatsheet cljdoc cider-eval-sexp-fu cider-decompile ascii ac-cider))))
+=======
+ '(global-auto-revert-mode t)
+ '(org-agenda-files (quote ("~/Home/temp.org")))
+ '(package-selected-packages
+   (quote
+    (voca-builder tagedit smex rainbow-delimiters projectile paredit neotree magit ido-ubiquitous guide-key git-rebase-mode git-commit-mode expand-region exec-path-from-shell company-irony-c-headers color-identifiers-mode clojure-mode-extra-font-locking clojure-cheatsheet cljdoc cider-eval-sexp-fu cider-decompile ac-cider))))
+>>>>>>> 6bb22c1f08b471c9c43656a09106b12c5cf0a891
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
