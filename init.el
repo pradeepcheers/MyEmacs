@@ -166,3 +166,4 @@
 
 ;;; Fixes shell or eshell node js repl in emacs
 (setenv "NODE_NO_READLINE" "1")
+(put 'upcase-region 'disabled nil)

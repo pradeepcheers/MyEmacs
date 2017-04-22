@@ -74,3 +74,4 @@
 ;; https://www.masteringemacs.org/article/improving-performance-emacs-display-engine
 (setq redisplay-dont-pause t)
 
+

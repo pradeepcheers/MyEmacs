@@ -2,15 +2,25 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/fwpd/src/" . "fwpd/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/fwpd/" . "src/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/clj-4-the-brave/src/" . "clj_4_the_brave/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/clj-4-the-brave/" . "src/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/four-clojure/src/" . "four_clojure/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/four-clojure/" . "src/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/" . "clj-4-the-brave/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/" . "workspace/")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/" . "Clojure/")
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/" . "try/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/" . "number_to_english_phrase/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/" . "src/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/" . "number-to-english-phrase/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/" . "ClojureWS/")
- ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/" . "Clojure/")
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/" . "JS/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/" . "DarkPassenger/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/" . "Home/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/" . "LastDay/")
- ("/Users/Pradeep/MyHome/" . "ThomsonReuters/")
+ ("/Users/Pradeep/MyHome/" . "FreeTimeProjects/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/src/" . "clojure_noob/")
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/" . "src/")
  ("/Users/Pradeep/Home/Projects/" . "infrastructure/")
@@ -41,7 +51,7 @@
  ("/Users/Pradeep/Home/DarkPassenger/Clojure/LondonClojureBridge/" . "project/")
  ("/Users/" . "Pradeep/")
  ("/" . "Users/")
- ("/Users/Pradeep/" . ".emacs.d/")
+ ("/Users/Pradeep/" . "MyHome/")
  ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/src/" . "yeah_baby/")
  ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/yeah-baby/" . "src/")
  ("/Users/Pradeep/Home/DarkPassenger/Clojure/firstClojureProgram/" . "yeah-baby/")
@@ -53,10 +63,14 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/clj-4-the-brave/src/clj_4_the_brave/"
+ "/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/fwpd/src/fwpd/"
+ "/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/four-clojure/src/four_clojure/"
+ "/Users/Pradeep/.emacs.d/"
+ "/Users/Pradeep/.emacs.d/customizations/"
+ "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/"
- "/Users/Pradeep/.emacs.d/customizations/"
- "/Users/Pradeep/.emacs.d/"
  "/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/src/clojure_noob/"
  "/Users/Pradeep/Home/Projects/infrastructure/"
  "/Users/Pradeep/Home/DarkPassenger/JS/try/"
@@ -83,35 +97,65 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "chapter-3.clj"
+ "chapter-5.clj"
  "core.clj"
+ "chapter-4.clj"
+ "init.el"
+ "ui.el"
+ "test.js"
  "project.clj"
  "editing.el"
  "navigation.el"
- "ui.el"
- "init.el"
- "setup-clojure.el"
- "casemanager-service-ui.properties"
- "test.js"
- "main.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/" (22415 45518 0 0) "core.clj" "../" "./")
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/fwpd/" (22626 52329 0 0) "test/" "target/" "suspects.csv" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/fwpd/src/fwpd/" (22626 52395 0 0) "core.clj" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/fwpd/src/" (22626 52033 0 0) "fwpd/" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/" (22626 52033 0 0) "fwpd/" "four-clojure/" "clj-4-the-brave/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/clj-4-the-brave/" (22626 20507 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".nrepl-port" ".hgignore" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/clj-4-the-brave/src/clj_4_the_brave/" (22620 26494 0 0) "core.clj" "chapter-4.clj" "chapter-3.clj" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/clj-4-the-brave/src/" (22605 52303 0 0) "clj_4_the_brave/" "../" "./")
+
+ ("/Users/Pradeep/" (22610 33106 0 0) "VirtualBox VMs/" "trust.db" "Snapshots/" "Public/" "Pictures/" "MyHome/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc" ".zshenv" ".zsh-syntax-highlighting.zsh" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zinc/" ".zhistory" ".zcompdump.zwc" ".zcompdump" ".z" ".yjp/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".tblive-4/" ".subversion/" ".ssh/" ".sqldeveloper/" ".scala_history" ".psql_history" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".mysql_history" ".mongorc.js" ".m2/" ".lein/" ".junk.swp" ".IntelliJIdea14/" ".gitconfig" ".gem/" ".fop/" ".embedmongo/" ".emacs.d/" ".DS_Store" ".dbshell" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".boot2docker/" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".android/" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/four-clojure/src/four_clojure/" (22605 38200 0 0) "core.clj" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/four-clojure/" (22605 39252 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/workspace/four-clojure/src/" (22600 27768 0 0) "four_clojure/" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/Clojure/" (22600 27733 0 0) "workspace/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/MyHome/FreeTimeProjects/" (22600 27690 0 0) "SnP/" "Raul/" "pivotal/" "Java8/" "iDesign/" "CodingTests/" "Clojure/" "Book/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/MyHome/" (22443 33987 0 0) "ThomsonReuters/" "software/" "Rest/" "JS/" "FreeTimeProjects/" "CambridgeAssessment/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/.emacs.d/" (22476 15275 0 0) "url/" "themes/" "README.md" "projectile-bookmarks.eld" "places" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" ".init.el.swp" ".git/" ".DS_Store" "%backup%~" "../" "./")
+
+ ("/Users/Pradeep/.emacs.d/customizations/" (22476 14557 0 0) "ui.el" "transpose-frame.elc" "transpose-frame.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/try/" (22361 39598 0 0) "test.js" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/JS/" (22358 50095 0 0) "try/" "NodeJS/" ".DS_Store" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/" (22417 24347 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".README.md.swp" ".README.md.swo" ".nrepl-port" ".hgignore" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/number_to_english_phrase/" (22417 19843 0 0) "core.clj" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/src/" (22415 45518 0 0) "number_to_english_phrase/" "../" "./")
-
- ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/number-to-english-phrase/" (22415 45518 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/" (22415 45518 0 0) "webskraper/" "ponies/" "number-to-english-phrase/" "firstClojureProgram/" "clojure-noob/" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/" (22414 51795 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
-
- ("/Users/Pradeep/.emacs.d/" (22414 49214 0 0) "url/" "themes/" "README.md" "projectile-bookmarks.eld" "places" "init.el~" "init.el" "ido.last" "eshell/" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".DS_Store" "%backup%~" "../" "./")
-
- ("/Users/Pradeep/" (22414 46759 0 0) "VirtualBox VMs/" "trust.db" "Snapshots/" "Public/" "Pictures/" "MyHome/" "Music/" "Movies/" "Library/" "IU-139.224_Pradeep_18.02.2015_23.28.22.zip" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zinc/" ".yjp/" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".tblive-4/" ".ssh/" ".sqldeveloper/" ".scala_history" ".node_repl_history" ".mysql_history" ".mongorc.js" ".m2/" ".lein/" ".junk.swp" ".IntelliJIdea14/" ".gitconfig" ".gem/" ".fop/" ".embedmongo/" ".emacs.d/" ".DS_Store" ".dbshell" ".cups/" ".cisco/" ".CFUserTextEncoding" ".boot2docker/" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".android/" "../" "./")
-
- ("/Users/Pradeep/MyHome/" (21967 36528 0 0) "ThomsonReuters/" "software/" "Rest/" "JS/" "FreeTimeProjects/" ".DS_Store" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/" (22397 23331 0 0) "tomcat/" "Project/" "other/" "LastDay/" "ES-Presentation/" "elastic-training/" ".DS_Store" "../" "./")
 
@@ -126,8 +170,6 @@
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/src/clojure_noob/" (22414 47612 0 0) "core.clj" "../" "./")
 
  ("/Users/Pradeep/MyHome/ThomsonReuters/LastDay/Home/DarkPassenger/Clojure/ClojureWS/clojure-noob/src/" (22414 47612 0 0) "clojure_noob/" "../" "./")
-
- ("/Users/Pradeep/.emacs.d/customizations/" (22397 22418 0 0) "ui.el" "transpose-frame.elc" "transpose-frame.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
 
  ("/Users/Pradeep/Home/Projects/infrastructure/" (22370 35185 0 0) "ums-service-rest.properties" "reporting-service-ui.properties" "np-casemanager-service-ui.properties" "casemanager-service-ui.properties" "BackendSetUpGuide.pdf" ".DS_Store" "../" "./")
 

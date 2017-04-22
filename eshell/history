@@ -52,3 +52,8 @@ clear
 node test.js 
 node -version
 node -v
+ls
+pwd
+ll
+clear
+clear
